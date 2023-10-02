@@ -1,0 +1,7 @@
+[x] Put one line of text in input file 
+[x] Write java code to read the text file
+[x] Fill text file with many lines
+[x] Refactor java code to read all the lines 
+[x] Change text file to include name:age pairs
+[x] Refactor java to parse through pairs and separate key and value into variables
+[] Create a map that makes the first variable a key and the second the value
